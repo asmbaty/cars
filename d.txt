@@ -2,3 +2,4 @@ This is d.txt
 Adding a new line to d.txt
 Third line
 Forth line
+The new line
