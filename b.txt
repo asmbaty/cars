@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 The first line of b.txt
 The second line of b.txt
+=======
+The first line of b.txt.
+Adding a new line from the atcommit3 branch.
+>>>>>>> atcommit3
